@@ -3,4 +3,5 @@
 
 int main() {
   printf("Hello world!\n");
+  printf("This line is added locally\n");
 }
